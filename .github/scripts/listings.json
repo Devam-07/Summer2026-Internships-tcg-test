@@ -57,5 +57,26 @@
         "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+{
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Global Relay",
+        "id": "f9077fea-b77f-4035-bae6-59f001e468f2",
+        "title": "Co-op Software Development Engineer in Test - Sdet",
+        "active": false,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749868249,
+        "date_posted": 1749868249,
+        "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5565471004",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Relay",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
+
 
