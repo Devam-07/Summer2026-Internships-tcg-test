@@ -1,4 +1,5 @@
 {
+         {
          "source": "Simplify",
         "category": "Software",
         "company_name": "Global Relay",
@@ -17,4 +18,5 @@
         "company_url": "https://simplify.jobs/c/Global-Relay",
         "is_visible": true,
         "sponsorship": "Other"
+}
 }
