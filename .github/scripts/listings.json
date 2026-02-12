@@ -37,4 +37,25 @@
         "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "4126330c-823d-4312-856e-55a2b0e44924",
+        "title": "Strategic Analysis Intern - AI Innovation Business - BS/MS",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749867147,
+        "date_posted": 1749867147,
+        "url": "https://jobs.bytedance.com/en/position/7514899101986539783/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
+
