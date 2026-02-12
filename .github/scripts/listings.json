@@ -1,5 +1,5 @@
 {
-        "source": "Simplify",
+         "source": "Simplify",
         "category": "Software",
         "company_name": "Global Relay",
         "id": "d9c18efc-327b-4b42-b326-af44cae5ba7d",
@@ -17,5 +17,6 @@
         "company_url": "https://simplify.jobs/c/Global-Relay",
         "is_visible": true,
         "sponsorship": "Other"
-    }
+}
+
 
